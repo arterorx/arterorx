@@ -26,6 +26,8 @@ App source stays private. What is public here:
 
 ### Writing
 
+- [App Store creative assets: sizes, API upload and review](https://teroxai.com/blog/app-store-creative-assets-sizes-api/)
+- [On-device AI found 40% of deadlines, the cloud 87%: building Postklar](https://teroxai.com/blog/postklar-model-understands-code-counts/)
 - [How long App Store review takes in 2026: 91 submissions measured](https://teroxai.com/blog/app-store-review-time-2026/)
 - [One evening of website: what it did for a small Mac app](https://teroxai.com/blog/app-website-downloads-case-study/)
 - [Four App Review rejections in 15 days: a Mac app post-mortem](https://teroxai.com/blog/mac-app-review-four-rejections/)
