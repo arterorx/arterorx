@@ -1,6 +1,6 @@
 <a href="https://teroxai.com"><img src="teroxai-lockup.png" alt="TeroxAI" width="220"></a>
 
-**Armen Ter-Oganezov.** Indie developer in Germany. Nine apps on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
+**Armen Ter-Oganezov.** Indie developer in Germany. Ten apps and a game on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
 
 Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.linkedin.com/in/armen-ter-oganezov/) · hello@teroxai.com
 
@@ -14,9 +14,16 @@ Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.link
 | <a href="https://teroxai.com/apps/fundkeep/"><img src="icons/fundkeep.png" width="48"></a> | **[Fundkeep](https://teroxai.com/apps/fundkeep/)** · Mac, iPhone, iPad | Envelope budgeting, bought once. No bank login, no server. |
 | <a href="https://teroxai.com/apps/roomkeep/"><img src="icons/roomkeep.png" width="48"></a> | **[Roomkeep](https://teroxai.com/apps/roomkeep/)** · Mac, iPhone, iPad | The home inventory an insurance claim actually needs. |
 | <a href="https://teroxai.com/apps/postklar/"><img src="icons/postklar.png" width="48"></a> | **[Postklar](https://teroxai.com/apps/postklar/)** · iPhone | German official letters explained in plain words, in seven languages. |
+| <a href="https://teroxai.com/apps/voice-notes/"><img src="icons/voice-notes.png" width="48"></a> | **[Voice Notes: Local Transcribe](https://teroxai.com/apps/voice-notes/)** · iPhone, iPad | Voice to text on the device. German and English, no cloud, pay once. |
 | <a href="https://teroxai.com/apps/ai-photo-generator/"><img src="icons/ai-photo-generator.png" width="48"></a> | **[AI Photo Generator](https://teroxai.com/apps/ai-photo-generator/)** · iPhone, iPad | Type anything, watch it become art. Headshots, avatars, edits. |
 | <a href="https://teroxai.com/apps/ai-video-generator/"><img src="icons/ai-video-generator.png" width="48"></a> | **[AI Video Generator](https://teroxai.com/apps/ai-video-generator/)** · iPhone, iPad | Words and photos into short videos. |
 | <a href="https://teroxai.com/apps/text-to-music/"><img src="icons/text-to-music.png" width="48"></a> | **[Text to Music](https://teroxai.com/apps/text-to-music/)** · iPhone, iPad | Describe a song, hear it in half a minute. |
+
+### Games
+
+| | | |
+|---|---|---|
+| <a href="https://teroxai.com/games/bone-caster/"><img src="icons/bone-caster.png" width="48"></a> | **[Bone Caster: Dice Roguelike](https://teroxai.com/games/bone-caster/)** · iPhone, iPad, Mac | A dice roguelike in the winter taiga. Free to try, one purchase for the full game. |
 
 App source stays private. What is public here:
 
@@ -26,6 +33,7 @@ App source stays private. What is public here:
 
 ### Writing
 
+- [No sleep timer on my Mac, so I built one](https://teroxai.com/blog/mac-sleep-timer/)
 - [App Store creative assets: sizes, review time and API upload (2026)](https://teroxai.com/blog/app-store-creative-assets-sizes-api/)
 - [On-device AI found 40% of deadlines, the cloud 87%: building Postklar](https://teroxai.com/blog/postklar-model-understands-code-counts/)
 - [How long App Store review takes in 2026: 91 submissions measured](https://teroxai.com/blog/app-store-review-time-2026/)
