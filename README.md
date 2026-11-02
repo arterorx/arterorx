@@ -1,6 +1,6 @@
 <a href="https://teroxai.com"><img src="teroxai-lockup.png" alt="TeroxAI" width="220"></a>
 
-**Armen Ter-Oganezov.** Indie developer in Germany. Ten apps and a game on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
+**Armen Ter-Oganezov.** Indie developer in Germany. Ten apps and two games on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
 
 Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.linkedin.com/in/armen-ter-oganezov/) · hello@teroxai.com
 
@@ -24,6 +24,7 @@ Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.link
 | | | |
 |---|---|---|
 | <a href="https://teroxai.com/games/bone-caster/"><img src="icons/bone-caster.png" width="48"></a> | **[Bone Caster: Dice Roguelike](https://teroxai.com/games/bone-caster/)** · iPhone, iPad, Mac | A dice roguelike in the winter taiga. Free to try, one purchase for the full game. |
+| <a href="https://teroxai.com/games/lampfall/"><img src="icons/lampfall.png" width="48"></a> | **[Lampfall: Turn-Based Roguelike](https://teroxai.com/games/lampfall/)** · iPhone, iPad, Mac | A one-finger dungeon crawler where lamp oil is your turn counter. First five floors free. |
 
 App source stays private. What is public here:
 
@@ -33,6 +34,7 @@ App source stays private. What is public here:
 
 ### Writing
 
+- [How I made a Roblox game with AI in two days](https://teroxai.com/blog/roblox-game-with-ai/)
 - [No sleep timer on my Mac, so I built one](https://teroxai.com/blog/mac-sleep-timer/)
 - [App Store creative assets: sizes, review time and API upload (2026)](https://teroxai.com/blog/app-store-creative-assets-sizes-api/)
 - [On-device AI found 40% of deadlines, the cloud 87%: building Postklar](https://teroxai.com/blog/postklar-model-understands-code-counts/)
