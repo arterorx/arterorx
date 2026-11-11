@@ -1,6 +1,6 @@
 <a href="https://teroxai.com"><img src="teroxai-lockup.png" alt="TeroxAI" width="220"></a>
 
-**Armen Ter-Oganezov.** Indie developer in Germany. Ten apps and two games on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
+**Armen Ter-Oganezov.** Indie developer in Germany. Ten apps and four games on the App Store, built solo with AI agents: I write the briefs, review every screen and ship. The agents write the code.
 
 Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.linkedin.com/in/armen-ter-oganezov/) · hello@teroxai.com
 
@@ -25,6 +25,8 @@ Site and blog: [teroxai.com](https://teroxai.com) · [LinkedIn](https://www.link
 |---|---|---|
 | <a href="https://teroxai.com/games/bone-caster/"><img src="icons/bone-caster.png" width="48"></a> | **[Bone Caster: Dice Roguelike](https://teroxai.com/games/bone-caster/)** · iPhone, iPad, Mac | A dice roguelike in the winter taiga. Free to try, one purchase for the full game. |
 | <a href="https://teroxai.com/games/lampfall/"><img src="icons/lampfall.png" width="48"></a> | **[Lampfall: Turn-Based Roguelike](https://teroxai.com/games/lampfall/)** · iPhone, iPad, Mac | A one-finger dungeon crawler where lamp oil is your turn counter. First five floors free. |
+| <a href="https://teroxai.com/games/vibe-coder/"><img src="icons/vibe-coder.png" width="48"></a> | **[Vibe Coder: AI Dev Simulator](https://teroxai.com/games/vibe-coder/)** · iPhone | A pixel-art tycoon about a solo developer and an AI that swears the code works. |
+| <a href="https://teroxai.com/games/hump-yard/"><img src="icons/hump-yard.png" width="48"></a> | **[Hump Yard: Train Puzzle](https://teroxai.com/games/hump-yard/)** · iPhone, iPad | A calm night-yard puzzle: tap the switches, sort the trains. |
 
 App source stays private. What is public here:
 
